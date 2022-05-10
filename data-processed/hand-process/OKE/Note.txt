@@ -1,4 +1,4 @@
-Sỹ: 1sao, 3sao, 4sao_v1_600, 5sao_2700
+Sỹ: 1sao, 3sao, 4sao_v1_600, 4sao_v3, 5sao_2700
 
 - dữ liệu khách hàng cmt có sản phẩm từ 2 trở lên thì cân đo dữ liệu sản phẩm 50/50
 
