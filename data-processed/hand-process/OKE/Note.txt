@@ -6,4 +6,31 @@ Bảo: 2sao, 4sao_v2, 5sao_2900
 
 - dữ liệu khách hàng cmt có sản phẩm từ 2 trở lên thì chọn sản phẩm tiêu cực trong cmt đó
 
++ sản phẩm :
 
+0 - không có đề cập về sản phẩm
+
+1 - áo, áo khoác, đồ lót ngực của phụ nữ
+
+2 - quần, váy, đầm
+
+3 - giày, dép
+
+4 - đồ lót phía dưới( nam, nữ)
+
+
++ dvvc :
+
+0 - không đề cập đến shipper, cách giao hàng, thái độ, thời gian giao hàng
+
+1 - đề cập đến shipper, cách giao hàng, thái độ, thời gian giao hàng
+
+
++ shop :
+
+0 - không đề cập đến sản phẩm mà shop đã bán ( đường chỉ may, phản hồi tin nhắn khách hàng, tư vấn sản phẩm, thái độ, ...)
+
+1 -  đề cập đến sản phẩm mà shop đã bán ( đường chỉ may, phản hồi tin nhắn khách hàng, tư vấn sản phẩm, thái độ, ...)
+
+
++ 1 số từ tiếng Anh đã giữ lại : shop, oke, ship, shipper, shopping, order, size, ...
