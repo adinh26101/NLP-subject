@@ -30,7 +30,7 @@ Bảo: 2sao, 4sao_v2, 5sao_2900
 
 0 - không đề cập đến sản phẩm mà shop đã bán ( đường chỉ may, phản hồi tin nhắn khách hàng, tư vấn sản phẩm, thái độ, ...)
 
-1 -  đề cập đến sản phẩm mà shop đã bán ( đường chỉ may, phản hồi tin nhắn khách hàng, tư vấn sản phẩm, thái độ, ...)
+1 -  đề cập đến sản phẩm mà shop đã bán ( đường chỉ may, phản hồi tin nhắn khách hàng, tư vấn sản phẩm, thái độ, giao sai sản phẩm)
 
 
 + 1 số từ tiếng Anh đã giữ lại : shop, oke, ship, shipper, shopping, order, size, ...
